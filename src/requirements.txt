@@ -1,6 +1,6 @@
 certifi==2017.11.5
 chardet==3.0.4
-Django==1.10
+Django==2.2.24
 django-allauth==0.34.0
 django-appconf==1.0.2
 django-bootstrap==0.2.4

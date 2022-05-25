@@ -11,7 +11,7 @@ gunicorn==19.7.1
 idna==2.6
 oauthlib==2.0.6
 pinax-messages==1.2.0
-PyJWT==1.5.3
+PyJWT==2.4.0
 python-openid==2.2.5
 pytz==2017.3
 redis==2.10.6
